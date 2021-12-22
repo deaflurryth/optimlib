@@ -1,5 +1,7 @@
-# odulib
+# optimlib
 # usage:
-from odulib import odu
+from optimlib import *
 
-odu.oduf()
+optimlib.CompactAnn()
+
+optimlib.CompactACO()
