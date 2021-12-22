@@ -1,6 +1,6 @@
 # optimlib
 # usage:
-from optimlib import opt
+from optimlib import *
 
 optimlib.CompactAnn()
 
