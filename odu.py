@@ -5,7 +5,7 @@
     import matplotlib.pyplot as plt
     import mpmath as mp
 
-def odu():
+def oduf():
     """Just Interface.
 
             Keyword arguments: none"""
@@ -438,4 +438,4 @@ def odu():
                 pikar()
                 vis2(f, xn, x0, step)
     Interface()
-odu()
+#oduf()

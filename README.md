@@ -2,4 +2,4 @@
 # usage:
 from odulib import odu
 
-odulib.odu()
+odu.Interface()

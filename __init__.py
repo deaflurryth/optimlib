@@ -5,7 +5,7 @@
     odulib.odu() - for run Proogramm interface
     
 """
-from .odulib import (odu,)
+from .odulib import oduf
 __author__ = 'deaflurryth'
-__version__ = '1.3'
+__version__ = '1.4'
 
