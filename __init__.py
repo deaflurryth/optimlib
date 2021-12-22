@@ -2,11 +2,10 @@
 :authors: deaflurryth
 
 :Functions: 
-    optimlib.CompactAnn() - for run Simulated Annealing
-    optimlib.CompactACO() - for run ACO alg
+    odulib.odu() - for run Proogramm interface
     
 """
-from .optimlib import (CompactAnn, CompactACO,)
+from .odulib import (odu,)
 __author__ = 'deaflurryth'
 __version__ = '1.3'
 

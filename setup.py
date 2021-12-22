@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
-long_description= '''Python module for optimization tasks'''
-setup(name='optimlib',
+long_description= '''Python module for ODU tasks'''
+setup(name='odulib',
       version='1.3',
-      url='https://github.com/deaflurryth/optimlib',
+      url='https://github.com/deaflurryth/odulib',
       license='MIT',
       author='deaflurryth',
       author_email='deaflurryth@icloud.com',
