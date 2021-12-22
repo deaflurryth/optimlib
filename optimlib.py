@@ -6,6 +6,9 @@ import time
 from datetime import datetime
 
 def CompactAnn():
+    """Simulated annealing.
+
+        Keyword arguments: none"""
     def Simulated():
         print('ИМИТАЦИЯ ОТЖИГА')
         print('_______________')
@@ -126,6 +129,9 @@ def CompactAnn():
 #CompactAnn()
 
 def CompactACO():
+    """ACO.
+
+        Keyword arguments: none"""
     import random as rd
     def ACO():
         np.seterr(divide= 'ignore', invalid= 'ignore')

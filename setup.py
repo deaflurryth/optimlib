@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 long_description= '''Python module for optimization tasks'''
 setup(name='optilib',
-      version='0.2',
+      version='1.0',
       url='https://github.com/deaflurryth/optimlib',
       license='MIT',
       author='deaflurryth',
