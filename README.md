@@ -2,6 +2,6 @@
 # usage:
 from optimlib import opt
 
-opt.CompactAnn()
+an.CompactAnn()
 
-opt.CompactACO()
+ant.CompactACO()
